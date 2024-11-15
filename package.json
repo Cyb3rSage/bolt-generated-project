@@ -1,0 +1,9 @@
+{
+      "name": "animated-hello",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^5.4.11"
+      }
+}
